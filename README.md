@@ -1,20 +1,40 @@
 Primero instalamos el TOMCAT 9.0 :
+
 ![image](https://github.com/dvd-2008/crud_eclipse/assets/128089437/7db5467e-1d6e-4e1f-9ae5-b7345a896824)
+
 intgegramos la libreria para la coneccion :
+
 ![image](https://github.com/dvd-2008/crud_eclipse/assets/128089437/c5b1fb0c-a617-4347-8fa5-eac7a09b31d1)
+
 clase CONEXION :
+
 ![image](https://github.com/dvd-2008/crud_eclipse/assets/128089437/d50109fe-1f09-45ae-99ca-1239e3648e92)
+
 Use la clase servelet para los controladores :
+
 ![image](https://github.com/dvd-2008/crud_eclipse/assets/128089437/b6b42c90-df7a-463f-bda1-466408e654fd)
+
 Por medio del metodo POST , creamos el login.jsp y el index.jsp :
+
 ![image](https://github.com/dvd-2008/crud_eclipse/assets/128089437/7949dd46-ff3b-4605-8038-6d328216ec2b)
+
 mostramos corriendo el sistema : usuario : obrero password : obre 
+
 ![image](https://github.com/dvd-2008/crud_eclipse/assets/128089437/c5eb911f-f1cd-4ab3-a3fc-f95eaeae4508)
+
 usamos la libreria sweet alert :
+
 ![image](https://github.com/dvd-2008/crud_eclipse/assets/128089437/78c2a831-c379-4d5c-8cbf-a845fb6d4293)
+
 y nos muestra un CRUD  funcional :
+
 ![image](https://github.com/dvd-2008/crud_eclipse/assets/128089437/42860dd0-6ab0-4421-af23-062bac06b0fa)
+
 acontinuacion el SCRIPT DE LA base de datos :
+
+
+
+
 
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
